@@ -7,8 +7,8 @@
   "seo_canonical": "",
   "seo_description": "",
   "seo_title": "",
-  "subtitle": "Hello World",
-  "title": "What it's like coming into existence"
+  "subtitle": "What it's like coming into existence",
+  "title": "Hello World!"
 }
 ---
 ## What's in Hello World
